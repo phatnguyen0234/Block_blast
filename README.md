@@ -59,9 +59,6 @@ Giao diện game theo phong cách tối giản, rõ ràng và tập trung vào g
 
 ### Hình minh họa
 
-> Đặt 4 ảnh vào thư mục `docs/images/` với tên:
-> `Screenshot_1.png`, `Screenshot_2.png`, `Screenshot_3.png`, `Screenshot_4.png`
-
 #### Màn hình khởi đầu
 
 ![Màn hình khởi đầu](docs/images/Screenshot_1.png)
